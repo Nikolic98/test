@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.humanity.apps.humanityV3",
+    "sha256_cert_fingerprints":
+    ["18:A3:CE:74:3D:42:03:AA:7A:22:24:CE:52:F3:D1:CF:E4:F0:9F:12:7F:0A:04:1A:D7:D0:CB:86:EF:0A:32:29"]
+  }
+}]
